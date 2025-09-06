@@ -23,7 +23,6 @@
 - Download Above Roadmap Excel file in your System
   
 
----
 
 ### Google Colab
 
