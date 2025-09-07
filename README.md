@@ -24,4 +24,8 @@
   
 
 
+### Google Colab
+
+[Google Colab](https://colab.research.google.com/drive/1UPs2Cuza2tpxC9Rci4Q0YrP4cNehxPRO)
+
 
